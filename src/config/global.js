@@ -1,17 +1,18 @@
 export default {
   global: {
-    Name: 'Nombre del recurso educativo',
-    Description: 'Descripción del RED',
-    imagenBannerPrincipal: '@/assets/curso/portada/banner-principal.svg',
+    Name: 'Diagnóstico organizacional',
+    Description:
+      'Este componente formativo aborda el diagnóstico organizacional como herramienta para analizar la situación interna y externa de una unidad económica. Integra instrumentos de recolección de datos, análisis del contexto, matriz DOFA y formulación de estrategias, con el propósito de orientar decisiones que fortalezcan la competitividad, la mejora continua y el desempeño organizacional.',
+    imagenBannerPrincipal: '@/assets/curso/portada/banner-principal.png',
     fondoBannerPrincipal: '@/assets/curso/portada/fondo-banner-principal.png',
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: '@/assets/curso/portada/banner-principal-decorativo-1.svg',
+        imagen: '@/assets/curso/portada/banner-principal-decorativo-1.png',
       },
       {
         clases: ['banner-principal-decorativo-2', 'd-none', 'd-lg-block'],
-        imagen: '@/assets/curso/portada/banner-principal-decorativo-2.svg',
+        imagen: '@/assets/curso/portada/banner-principal-decorativo-2.png',
       },
     ],
   },
@@ -31,27 +32,160 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Tema 1',
+        titulo:
+          'Diagnóstico organizacional e instrumentos de recolección de datos',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Subtema 1',
+            titulo: 'Elementos e importancia del diagnóstico organizacional ',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Instrumentos de recolección de datos',
+            hash: 't_1_2',
+          },
+          {
+            numero: '1.3',
+            titulo: 'Tipos principales de instrumentos ',
+            hash: 't_1_3',
+          },
+          {
+            numero: '1.4',
+            titulo:
+              'Aplicación de instrumentos en el diagnóstico organizacional',
+            hash: 't_1_4',
+          },
+          {
+            numero: '1.5',
+            titulo: 'Organización y uso de la información recolectada',
+            hash: 't_1_5',
           },
         ],
       },
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Tema 2',
+        titulo: 'Contexto interno de la organización',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'Factores internos',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: 'Fortalezas',
+            hash: 't_2_2',
+          },
+          {
+            numero: '2.3',
+            titulo: 'Debilidades',
+            hash: 't_2_3',
+          },
+          {
+            numero: '2.4',
+            titulo: 'Análisis del contexto interno en la unidad económica',
+            hash: 't_2_4',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Tema 3',
+        titulo: 'Contexto externo de la organización',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'Factores políticos y legales',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.2',
+            titulo: 'Factores económicos',
+            hash: 't_3_2',
+          },
+          {
+            numero: '3.3',
+            titulo: 'Factores sociales',
+            hash: 't_3_3',
+          },
+          {
+            numero: '3.4',
+            titulo: 'Factores tecnológicos',
+            hash: 't_3_4',
+          },
+          {
+            numero: '3.5',
+            titulo: 'Factores ambientales',
+            hash: 't_3_5',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo: 'Matriz de diagnóstico DOFA',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '4.1',
+            titulo: 'Componentes de la matriz',
+            hash: 't_4_1',
+          },
+          {
+            numero: '4.2',
+            titulo: 'Elaboración de la matriz DOFA',
+            hash: 't_4_2',
+          },
+          {
+            numero: '4.3',
+            titulo: 'Análisis de resultados',
+            hash: 't_4_3',
+          },
+          {
+            numero: '4.4',
+            titulo: 'Matriz DOFA para la toma de decisiones',
+            hash: 't_4_4',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema5',
+        numero: '5',
+        titulo: 'Estrategia y táctica organizacional',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '5.1',
+            titulo: 'Definición y tipos de estrategias organizacionales',
+            hash: 't_5_1',
+          },
+          {
+            numero: '5.2',
+            titulo: 'Estrategias organizacionales según su propósito',
+            hash: 't_5_2',
+          },
+          {
+            numero: '5.3',
+            titulo: 'Estrategias derivadas de la matriz DOFA',
+            hash: 't_5_3',
+          },
+          {
+            numero: '5.4',
+            titulo: 'Definición de táctica organizacional',
+            hash: 't_5_4',
+          },
+          {
+            numero: '5.5',
+            titulo:
+              'Relación y aplicación de estrategias y tácticas en la unidad económica',
+            hash: 't_5_5',
+          },
+        ],
       },
     ],
     subMenu: [
