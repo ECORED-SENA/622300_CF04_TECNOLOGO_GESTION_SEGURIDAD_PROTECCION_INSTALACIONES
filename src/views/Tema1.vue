@@ -14,6 +14,10 @@
         .col-xl-auto.col-md-9(data-aos="fade-left")
           figure
             img(src='@/assets/curso/temas/t1/img1.png', alt='').m-auto
+          p.mb-5
+        .video
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/mAZm-qSH0XI?si=b6OCBqcMWHmnIXt4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        figcaption Video. Diagnóstico Organizacional
       #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
         h2 1.1 Elementos e importancia del diagnóstico organizacional 
       .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5(data-aos="zoom-in")
@@ -141,7 +145,7 @@
       p.mb-5 Esta clasificación permite diferenciar instrumentos orientados a datos numéricos de aquellos que profundizan en experiencias y contextos, facilitando la selección del recurso más adecuado para el diagnóstico organizacional. Para ampliar esta comprensión, a través del siguiente video se reconocerán las principales técnicas de recolección de información y su utilidad en el análisis de una organización.
       figure(data-aos="zoom-in")
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/xrET4E43wq4?si=-_xd_AtCx_RrCBX8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video. Técnicas de recolección de información
       Separador
       #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
