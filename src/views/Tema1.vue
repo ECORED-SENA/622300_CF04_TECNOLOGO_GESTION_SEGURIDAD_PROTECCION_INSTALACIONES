@@ -133,7 +133,7 @@
                 img(src='@/assets/curso/temas/t1/img14.svg', alt='' style="max-width: 100px")
             .col-xl
               h2 Enfoque Cuantitativo
-          p.mb-0 Se centra en datos numéricos y estadísticos. Los instrumentos más comunes son los cuestionarios estandarizados, las escalas de Likert (para medir actitudes) y los tests. Estos instrumentos buscan la uniformidad y la replicabilidad para poder generalizar los resultados.
+          p.mb-0 Se centra en datos numéricos y estadísticos. Los instrumentos más comunes son los cuestionarios estandarizados, las escalas de <i>Likert</i> (para medir actitudes) y los <i>tests</i>. Estos instrumentos buscan la uniformidad y la replicabilidad para poder generalizar los resultados.
         .col-xl-6.col-md-10.tarjeta.color-primario.text-white.p-5
           .row.d-flex.align-items-end.mb-4
             .col-xl-auto.mb-3.mb-lg-0(data-aos="fade-right")
@@ -254,7 +254,7 @@
             .row.align-items-center
               .col-lg.mb-4.mb-lg-0
                 h3 Elaborar conclusiones
-                p.mb-0 Sintetizar los resultados obtenidos y relacionarlos con el diagnóstico organizacional
+                p.mb-0 Sintetizar los resultados obtenidos y relacionarlos con el diagnóstico organizacional.
               .col-auto(data-aos="zoom-in")
                 figure
                   img(src='@/assets/curso/temas/t1/img30.png', alt='' style="width: 300px").m-auto
@@ -333,7 +333,7 @@
           p.mb-0 La lista de chequeo es un instrumento estructurado de verificación que permite organizar, controlar y evaluar el cumplimiento de actividades, procedimientos o criterios previamente definidos. Su uso facilita el registro sistemático de la presencia o ausencia de características, comportamientos o pasos esenciales dentro de un proceso. Además, contribuye a reducir la subjetividad del observador, identificar errores u omisiones y fortalecer la calidad en la ejecución de tareas.
       .titulo-tercer-nivel.mb-5(data-aos="fade-right")
         img.titulo-tercer-nivel__icon(src='@/assets/curso/temas/t1/img17.svg')
-        h3.titulo-tercer-nivel__text.mb-0.px-0.py-2 Pruebas y test estandarizados
+        h3.titulo-tercer-nivel__text.mb-0.px-0.py-2 Pruebas y <i>tests</i> estandarizados
       .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5(data-aos="zoom-in")
         .bloque-texto-g__img(
           :style="{ backgroundImage: `url(${require_src('@/assets/curso/temas/t1/img36.jpg')})` }")

@@ -9,7 +9,7 @@
       .caja-1.mb-5(data-aos="zoom-in")
         .row.align-items-center
           .col-xl.order-2.order-lg-1.caja-1-p
-            p.mb-0 El análisis externo permite comprender el entorno que rodea a una empresa e identificar factores que pueden influir en su desarrollo, como aspectos políticos, económicos, sociales, tecnológicos, ambientales y legales. Aunque estos elementos no son controlados directamente por la organización, pueden representar oportunidades de crecimiento o amenazas que requieren estrategias adecuadas. Para ello, se utilizan modelos como PEST o PESTEL, los cuales facilitan el estudio del entorno y apoyan la toma de decisiones para mantener la competitividad y adaptarse a los cambios del mercado.
+            p.mb-0 El análisis externo permite comprender el entorno que rodea a una empresa e identificar factores que pueden influir en su desarrollo, como aspectos políticos, económicos, sociales, tecnológicos, ambientales y legales. Aunque estos elementos no son controlados directamente por la organización, pueden representar oportunidades de crecimiento o amenazas que requieren estrategias adecuadas. Para ello, se utilizan modelos como <i>PEST</i> o <i>PESTEL</i>, los cuales facilitan el estudio del entorno y apoyan la toma de decisiones para mantener la competitividad y adaptarse a los cambios del mercado.
           .col-xl-auto.order-1.order-lg-2
             figure
               img(src='@/assets/curso/temas/t3/img1.png', alt='').m-auto
@@ -198,7 +198,7 @@
             .row(titulo="Consumo energético").ajuste-cajaAcordion.ajuste-vineta
               p.mb-3 El consumo de energía influye en los costos operativos y en el impacto ambiental de la organización. Analizar este factor permite identificar oportunidades para optimizar recursos, implementar tecnologías más eficientes y reducir gastos asociados al uso de electricidad, combustibles u otras fuentes energéticas.
             .row(titulo="Cambio climático y condiciones geográficas").ajuste-cajaAcordion.ajuste-vineta
-              p.mb-3 El cambio climático puede afectar la disponibilidad de recursos, la logística, la producción y la continuidad de las operaciones. Asimismo, las condiciones geográficas, como ubicación, clima, acceso a recursos naturales o exposición a riesgos ambientales pueden representar oportunidades o amenazas para la unidad económica.
+              p.mb-3 El cambio climático puede afectar la disponibilidad de recursos, la logística, la producción y la continuidad de las operaciones. Asimismo, las condiciones geográficas, como ubicación, clima, acceso a recursos naturales o exposición a riesgos ambientales, pueden representar oportunidades o amenazas para la unidad económica.
             .row(titulo="Gestión de residuos").ajuste-cajaAcordion.ajuste-vineta
               p.mb-3 La gestión adecuada de residuos sólidos y líquidos permite reducir impactos negativos sobre el ambiente y cumplir con las exigencias normativas. Este factor implica revisar cómo la organización separa, almacena, trata, reutiliza o dispone sus residuos, de acuerdo con su actividad económica.
             .row(titulo="Normativa y políticas ambientales").ajuste-cajaAcordion.ajuste-vineta

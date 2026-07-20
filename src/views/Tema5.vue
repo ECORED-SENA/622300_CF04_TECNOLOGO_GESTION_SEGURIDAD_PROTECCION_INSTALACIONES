@@ -68,7 +68,7 @@
       Separador
       #t_5_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
         h2 5.2 Estrategias organizacionales según su propósito
-      p.mb-5 Las estrategias organizacionales según su propósito orientan las decisiones de crecimiento, fortalecimiento o diversificación de la unidad económica, permitiendo definir acciones coherentes con sus objetivos y condiciones del mercado. Estas son:
+      p.mb-5 Las estrategias organizacionales, según su propósito, orientan las decisiones de crecimiento, fortalecimiento o diversificación de la unidad económica, permitiendo definir acciones coherentes con sus objetivos y condiciones del mercado. Estas son:
       .bg-slider.mb-0
         .px-5
           .ajuste-slider(data-aos="zoom-in")
@@ -145,12 +145,12 @@
           .row.justify-content-center.mb-0
             .col-xl-10
               AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")(data-aos="zoom-in")
-                .row(titulo="Estrategias FOO").ajuste-cajaAcordion.ajuste-vineta
+                .row(titulo="Estrategias FO").ajuste-cajaAcordion.ajuste-vineta
                   p Las estrategias FO relacionan las fortalezas internas con las oportunidades externas. Su propósito es aprovechar aquello que la organización hace bien para responder a condiciones favorables del entorno. Estas estrategias suelen orientarse al crecimiento, la innovación, la expansión o el posicionamiento, ya que parten de capacidades existentes para obtener mejores resultados.
                   p.mb-3 Por ejemplo, una empresa de tecnología con un equipo de desarrollo altamente capacitado (fortaleza) detecta una creciente demanda de aplicaciones móviles para salud (oportunidad). La estrategia FO plantea “Crear una app de monitoreo de salud para aprovechar esa demanda”.
                 .row(titulo="Estrategias DO").ajuste-cajaAcordion.ajuste-vineta
                   p Las estrategias DO relacionan las debilidades internas con las oportunidades externas. Su finalidad es superar limitaciones de la organización aprovechando condiciones favorables del entorno. Son útiles cuando la unidad económica identifica oportunidades de crecimiento, pero necesita fortalecer recursos, procesos, tecnología, comunicación o capacidades internas para poder aprovecharlas.
-                  p.mb-3 Por ejemplo, en una empresa de alimentos saludables identifica una tendencia creciente hacia el consumo consciente (oportunidad), pero no tiene presencia en redes sociales (debilidad). Dado lo anterior la estrategia DO consiste en “Contratar un equipo de marketing digital para mejorar su presencia online y aprovechar la tendencia”.
+                  p.mb-3 Por ejemplo, en una empresa de alimentos saludables identifica una tendencia creciente hacia el consumo consciente (oportunidad), pero no tiene presencia en redes sociales (debilidad). Dado lo anterior, la estrategia DO consiste en “contratar un equipo de <i>marketing</i> digital para mejorar su presencia online y aprovechar la tendencia”.
                 .row(titulo="Estrategias FA").ajuste-cajaAcordion.ajuste-vineta
                   p Las estrategias FA combinan las fortalezas internas con las amenazas externas. Su propósito es utilizar las capacidades, recursos o ventajas de la organización para enfrentar riesgos del entorno. Estas estrategias ayudan a proteger la estabilidad, reducir impactos negativos y responder de manera más efectiva ante cambios legales, económicos, tecnológicos, sociales o competitivos.
                   p.mb-3 Por ejemplo, una empresa de software tiene una sólida infraestructura de ciberseguridad (fortaleza) y enfrenta el riesgo de ataques informáticos (amenaza). La estrategia FA es ofrecer servicios de ciberseguridad a otras empresas como una nueva línea de negocio.
