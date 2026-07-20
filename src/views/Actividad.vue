@@ -56,37 +56,40 @@ export default {
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: {
-            id: 2,
-            texto:
-              '¿Qué permite identificar el análisis interno de una organización?',
-            imagen: '@/assets/actividad/imagen1.png',
-            barajarRespuestas: true,
-            opciones: [
-              {
-                id: 'a',
-                texto: 'Fortalezas y debilidades internas.',
-                esCorrecta: true,
-              },
-              {
-                id: 'b',
-                texto: 'Amenazas externas y políticas públicas.',
-                esCorrecta: false,
-              },
-              {
-                id: 'c',
-                texto: 'Cambios sociales y factores legales.',
-                esCorrecta: false,
-              },
-              {
-                id: 'd',
-                texto: 'Oportunidades del mercado global.',
-                esCorrecta: false,
-              },
-            ],
-            mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-            mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
-          },
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 2,
+          texto:
+            '¿Qué permite identificar el análisis interno de una organización?',
+          imagen: '@/assets/actividad/imagen1.png',
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Fortalezas y debilidades internas.',
+              esCorrecta: true,
+            },
+            {
+              id: 'b',
+              texto: 'Amenazas externas y políticas públicas.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Cambios sociales y factores legales.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Oportunidades del mercado global.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
           id: 3,
           texto:
             '¿Qué característica deben tener los instrumentos de recolección de datos?',
