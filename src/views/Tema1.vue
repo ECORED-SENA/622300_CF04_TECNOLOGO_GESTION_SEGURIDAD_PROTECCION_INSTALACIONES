@@ -338,7 +338,7 @@
         .bloque-texto-g__img(
           :style="{ backgroundImage: `url(${require_src('@/assets/curso/temas/t1/img36.jpg')})` }")
         .bloque-texto-g__texto.p-4
-          p.mb-0 La prueba o test estandarizado es un instrumento diseñado para medir habilidades, conocimientos o actitudes de manera uniforme, mediante preguntas o tareas con criterios definidos y aplicadas bajo condiciones controladas. Su principal ventaja es que permite obtener resultados comparables y confiables cuando ha sido validado adecuadamente; sin embargo, puede presentar limitaciones si no se adapta a contextos culturales específicos.
+          p.mb-0 La prueba o <i>test</i> estandarizado es un instrumento diseñado para medir habilidades, conocimientos o actitudes de manera uniforme, mediante preguntas o tareas con criterios definidos y aplicadas bajo condiciones controladas. Su principal ventaja es que permite obtener resultados comparables y confiables cuando ha sido validado adecuadamente; sin embargo, puede presentar limitaciones si no se adapta a contextos culturales específicos.
       .titulo-tercer-nivel.mb-5(data-aos="fade-right")
         img.titulo-tercer-nivel__icon(src='@/assets/curso/temas/t1/img17.svg')
         h3.titulo-tercer-nivel__text.mb-0.px-0.py-2 Registros y análisis documental

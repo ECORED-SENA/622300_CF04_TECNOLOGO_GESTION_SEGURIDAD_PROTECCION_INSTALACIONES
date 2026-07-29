@@ -214,7 +214,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/622300_CF04_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -457,14 +457,14 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Juan José Calderon Gutiérrez',
+          nombre: 'Jorge David Barbosa Losada,
           cargo: 'Diseñador de contenidos digitales',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
           nombre: 'Cristian Fernando Martínez Sánchez',
-          cargo: 'Desarrollador fullstack',
+          cargo: 'Desarrollador <i>fullstack</i>',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
